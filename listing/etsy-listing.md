@@ -82,7 +82,7 @@ Questions? Send me a message. I'm happy to help!
 
 ## Shop setup text
 
-**Shop name:** FocusNookPrints (was free on 19 Oct 2026). CalmFocusStudio and TinyStepsPlanner are already taken.
+**Shop name:** PlumossPaper ("plum + moss", matching the sage & peach palette). On 19 Oct 2026 the Etsy shop name was free, plumoss.com and plumosspaper.com were unregistered, and no website or brand used the name. Avoid: CalmFocusStudio and TinyStepsPlanner (taken on Etsy), FocusNook (existing productivity app focusnook.app).
 
 **Shop announcement**
 ```

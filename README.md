@@ -26,7 +26,7 @@ Main aap ka account nahi bana sakta. Is ke liye aap ki ID, bank/Payoneer, phone 
 1. **Payoneer account** banayein: payoneer.com par jayein aur CNIC + bank details dein. Approval mein 1-3 din lagte hain. Pakistan mein Etsy ki payouts Payoneer ke zariye aati hain.
 2. **etsy.com/sell** par jayein, phir **Get started** par click karein aur email se account banayein.
 3. Shop preferences mein: Language English, Country **Pakistan**, Currency **USD**.
-4. **Shop name** chunein: **FocusNookPrints** (19 Oct 2026 ko khaali tha).
+4. **Shop name** chunein: **PlumossPaper** (19 Oct 2026 ko Etsy par khaali tha, aur is naam ki koi website nahi thi).
 5. **First listing** banayein. Neeche "Listing upload" dekhein.
 6. **Payments**: Payoneer connect karein.
 7. **Billing**: debit/credit card add karein. Is se listing fee ($0.20) aur shop setup fee (agar lage) kategi.
