@@ -34,7 +34,7 @@ class Planner:
         self.W, self.H = size
         self.c = canvas.Canvas(str(path), pagesize=size)
         self.c.setTitle(f"{YEAR} ADHD Planner")
-        self.c.setAuthor("Calm Focus Studio")
+        self.c.setAuthor("Focus Nook Prints")
         self.m = 36  # margin
         self.page_no = 0
 
@@ -62,7 +62,7 @@ class Planner:
         c = self.c
         c.setFont("Body", 8)
         c.setFillColor(MUTED)
-        c.drawCentredString(self.W / 2, 18, f"{YEAR} ADHD Planner  ·  Calm Focus Studio  ·  personal use only")
+        c.drawCentredString(self.W / 2, 18, f"{YEAR} ADHD Planner  ·  Focus Nook Prints  ·  personal use only")
 
     def end(self):
         self.footer()

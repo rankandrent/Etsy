@@ -82,7 +82,7 @@ Questions? Send me a message. I'm happy to help!
 
 ## Shop setup text
 
-**Shop name ideas** (check availability): CalmFocusStudio · GentlePlanCo · FocusNookPrints · TinyStepsPlanner
+**Shop name:** FocusNookPrints (was free on 19 Oct 2026). CalmFocusStudio and TinyStepsPlanner are already taken.
 
 **Shop announcement**
 ```
